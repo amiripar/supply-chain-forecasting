@@ -65,6 +65,12 @@ Features:
 - SKU drill-down view
 - Actual vs forecast demand visualization
 
+## Dashboard Screenshots
+
+![Dashboard Overview](dashboards/dashboard_overview.png)
+
+![SKU Drilldown](dashboards/sku_drilldown.png)
+
 ## How to Run
 
 Create virtual environment:
